@@ -71,6 +71,6 @@ conference:
     time_steps: 15
     show_alltimes: true
     
-plugins: jekyll-include-cache
+plugins_dir: jekyll-include-cache
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
