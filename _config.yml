@@ -72,3 +72,5 @@ conference:
     show_alltimes: true
     
 plugins: jekyll-include-cache
+
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
