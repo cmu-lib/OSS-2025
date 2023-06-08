@@ -1,6 +1,26 @@
 ---
 layout: home
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies interdum lacus quis gravida. Vestibulum eget arcu in dui facilisis luctus. Curabitur rhoncus nibh non neque viverra facilisis. Nam nec placerat augue, ut mollis ante. Morbi pulvinar iaculis felis eget pretium. Duis euismod, risus non placerat accumsan, mi nisl euismod nibh, quis finibus ante mauris eu odio.
 
-Nullam a nunc felis. Aenean nec metus sed elit feugiat elementum sed ut quam. Maecenas dignissim augue nec sollicitudin sagittis. Donec sagittis dolor non tincidunt eleifend. Donec vel nibh et leo pretium dignissim. Nulla vehicula arcu velit, ac facilisis turpis fermentum ac. Integer at tempus sem, in vehicula magna. Ut tempor est nec nisl imperdiet porttitor sit amet maximus massa.
+<style>
+#logo-container {
+    margin: 0 auto;
+    width: 70vw;
+	padding: 15px;
+	padding-top: 0px;
+}
+
+#logo-container img {
+    width: 70vw;
+}
+</style>
+
+<div id='logo-container'><img src="assets/images/old-banner.png" /></div>
+
+## Open Science Symposium 2023
+
+We are excited to invite all students, data users, and researchers to join us at the fourth CMU Open Science Symposium, taking place virtually on Zoom. The symposium will build awareness and support for the adoption of open research practices and encourage innovative ideas about data sharing.
+
+The full day program will feature talks from researchers, tool developers, and publishers; panel discussions; and networking opportunities.
+
+This dynamic and interactive symposium will accelerate interdisciplinary collaborations at Carnegie Mellon University and beyond. We look forward to you joining us at this fun and rewarding event!
