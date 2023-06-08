@@ -1,7 +1,7 @@
-title: Conference 2020
+title: Open Science Symposium 2023
 preposition: ''
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  The Fourth Carnegie Mellon University Open Science Symposium
 baseurl: "/OSS" # the subpath of your site, e.g. /blog
 url: "cmu-lib.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -63,9 +63,9 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Digital Society Switzerland
+      name: Carnegie Mellon University
       # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+      url: 'https://www.cmu.edu/'
     links:
       - name: Program
         relative_url: /program/
@@ -77,8 +77,8 @@ conference:
         relative_url: /location/
       - name: Previous Editions
         menu:
-          - name: 2020 (current)
-            disabled: true
+          - name: 2020
+            url: 'https://events.library.cmu.edu/oss2020/'
           - name: 2019
             relative_url: /2019/
           - name: 2018
