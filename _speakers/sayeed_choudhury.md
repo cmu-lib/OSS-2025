@@ -1,6 +1,6 @@
 ---
 first_name: Sayeed
-hide: true
+hide: false
 last_name: Choudhury
 name: Sayeed Choudhury
 ---
