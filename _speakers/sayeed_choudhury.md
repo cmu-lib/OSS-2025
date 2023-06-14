@@ -7,7 +7,7 @@ links:
     absolute_url: https://www.library.cmu.edu/about/people/sayeed-choudhury
 ---
 
-![Image of Sayeed Choudhury](../assets/images/sayeed-choudhury.jpg)
+![Image of Sayeed Choudhury](sayeed-choudhury.jpg)
 
 Sayeed Choudhury is the Director of the Open Source Programs Office at Carnegie
 Mellon University.
