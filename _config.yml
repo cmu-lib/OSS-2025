@@ -57,9 +57,6 @@ conference:
   # Language
   lang: en
 
-  # Show theme errors:
-  show_errors: false
-
   # Navigation bar
   navigation:
     logo:
