@@ -112,10 +112,7 @@ conference:
 
         ---
 
-        In the meantime, check out our last [Open Science Symposium](https://events.library.cmu.edu/oss2020/) and how CMU Libraries is supporting open science at our [Open Science & Data Collaborations website](https://www.library.cmu.edu/services/open-science#).
-    - text: This is just some random content for demonstration purposes.
-      color: warning
-      pages_only: true
+        In the meantime, check out our last [Open Science Symposium](https://events.library.cmu.edu/oss2020/) and how CMU Libraries is supporting open science at our [Open Science & Data Collaborations website](https://www.library.cmu.edu/services/open-science#). 
 
   # Live indications
   live:
