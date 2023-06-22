@@ -64,11 +64,10 @@ conference:
       # img: ''
       url: 'https://www.cmu.edu/'
     links:
-      - name: Program
-        relative_url: /program/
-      - live:false
-      - name: Talks
-        relative_url: /talks/
+      #- name: Program
+      #  relative_url: /program/
+      #- name: Talks
+      #  relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
       - name: Location
