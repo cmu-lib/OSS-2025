@@ -25,13 +25,13 @@ exclude:
 # Collections and their defaults
 collections:
   talks:
-    output: false
+    output: true
     permalink: /:collection/:title/
   speakers:
     output: true
     permalink: /:collection/:title/
   rooms:
-    output: false
+    output: true
     permalink: /:collection/:title/
 
 defaults:
