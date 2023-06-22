@@ -8,5 +8,7 @@ links:
 ---
 
 Professor of Economic Geography and Planning
+
 Director, Resilient Communties Lab
-Massachusetts Institute of Technology 
+
+Massachusetts Institute of Technology
