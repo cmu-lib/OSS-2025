@@ -66,6 +66,7 @@ conference:
     links:
       - name: Program
         relative_url: /program/
+      - live:false
       - name: Talks
         relative_url: /talks/
       - name: Speakers
