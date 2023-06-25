@@ -19,8 +19,15 @@ layout: home
 
 ## Open Science Symposium 2023
 
-We are excited to invite all students, data users, and researchers to join us at the fourth CMU Open Science Symposium, taking place virtually on Zoom. The symposium will build awareness and support for the adoption of open research practices and encourage innovative ideas about data sharing.
+Join us for our signature open science event, a full day of virtual talks and
+panels from researchers and thought leaders in academia, industry, and publishing.
 
-The full day program will feature talks from researchers, tool developers, and publishers; panel discussions; and networking opportunities.
+The conference will explore how open science is transforming the ways in which 
+we do research and share it in a variety of science and non-science disciplines.
+Topics will include tenure and promotion policies, rethinking peer review,
+lessons from industry, and more!
 
-This dynamic and interactive symposium will accelerate interdisciplinary collaborations at Carnegie Mellon University and beyond. We look forward to you joining us at this fun and rewarding event!
+We will also have the following satellite events this fall:
+
+- *In Conversation with Life Science Researchers: The Evolving Landscape of Data Sharing*, a virtual roundtable, will be held on September 14, 2023.
+- *Morning Brew: Exploring Open Science at CMU Libraries*, an informal mixer event, will be held in person on November 8, 2023.
