@@ -15,7 +15,7 @@ layout: home
 }
 </style>
 
-<div id='logo-container'><img src="assets/images/old-banner.png" /></div>
+<div id='logo-container'><img src="assets/images/temporary-banner-2023.png" /></div>
 
 ## Open Science Symposium 2023
 
