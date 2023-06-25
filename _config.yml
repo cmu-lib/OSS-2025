@@ -94,11 +94,11 @@ conference:
     # logo:
     #   img: ''
     links:
-      - name: Program
-        relative_url: /program/
-      - name: How to get there
+      - name: Speakers
+        relative_url: /speakers/
+      - name: Virtual event information
         relative_url: /location/
-      - name: Tickets
+      - name: Registration
         disabled: true
         absolute_url: ''
 
@@ -112,7 +112,7 @@ conference:
 
         ---
 
-        In the meantime, check out our last [Open Science Symposium](https://events.library.cmu.edu/oss2020/) and how CMU Libraries is supporting open science at our [Open Science & Data Collaborations website](https://www.library.cmu.edu/services/open-science#). 
+        In the meantime, check out our last [Open Science Symposium](https://events.library.cmu.edu/oss2020/) and how CMU Libraries is supporting open science at our [Open Science & Data Collaborations website](https://www.library.cmu.edu/services/open-science#).
 
   # Live indications
   live:
