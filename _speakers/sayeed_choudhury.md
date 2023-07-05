@@ -9,6 +9,8 @@ links:
 
 Director, Open Source Programs Office (OSPO)
 
+Associate Dean for Digital Infrastructure
+
 University Libraries
 
 Carnegie Mellon University
