@@ -9,4 +9,6 @@ links:
 
 Editor-in-Chief, Journal of Field Robotics
 
-Professor, Robotics Insitute, Carnegie Mellon University
+Professor, Robotics Institute
+
+Carnegie Mellon University
