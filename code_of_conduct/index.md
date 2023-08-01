@@ -1,8 +1,7 @@
 ---
 layout: location
+title: OSS 2023 (Virtual Symposium) Code of Conduct 
 ---
-
-# OSS 2023 (Virtual Symposium) Code of Conduct
 
 OSS 2023 is committed to providing a safe, welcoming, and inclusive environment
 for all conference participants and the OSS 2023 planning committees and
