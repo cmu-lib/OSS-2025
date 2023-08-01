@@ -103,6 +103,8 @@ conference:
       - name: Registration
         disabled: true
         absolute_url: ''
+      - name: Code of Conduct
+        relative_url: /code_of_conduct/
 
   # Information boxes
   info_bars:
