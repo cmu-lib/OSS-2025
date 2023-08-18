@@ -1,9 +1,9 @@
 ---
-name: Arcu Non Odio
+name: Session 3
 speakers:
   - Alex Rosales
 categories:
-  - Cat A
+  - Roles of Institutions and Government
   - Talk
 links:
   - name: Recodring
