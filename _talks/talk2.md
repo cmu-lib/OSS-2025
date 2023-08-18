@@ -1,10 +1,9 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Session 2
 speakers:
   - Tolga Philip
   - Alex Rosales
 categories:
-  - Cat A
+  - Open Resources for Communities
   - Talk
-hide: true
 ---
