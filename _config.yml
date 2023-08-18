@@ -147,9 +147,13 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: New Models for Research
+        color: primary
+      - name: Open Resources for Communities
+        color: secondary
+      - name: Roles of Institutions and Government
         color: info
-      - name: Cat B
+      - name: Publishing
         color: success
 
     # Hide icons on talk overview page
