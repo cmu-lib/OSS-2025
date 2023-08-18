@@ -11,7 +11,9 @@
     {{ speaker.first_name }} {{ speaker.last_name }}
   </h1>
 
-  <img src="https://www.library.cmu.edu/sites/default/files/styles/focal_point_300x450/public/person/images/sayeed-choudhury.jpg?h=d30d7945&itok=lQShH0fY" alt="{{ speaker.first_name }} {{ speaker.last_name }}">
+  {% if speaker.image_url %}
+    <img src="{{ speaker.image_url }}" alt="{{ speaker.first_name }} {{ speaker.last_name }}">
+  {% endif %}
 
   {{ content }}
 
