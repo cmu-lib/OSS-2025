@@ -20,7 +20,7 @@ links:
 }
 </style>
 
-<div id='logo-container'><img src="assets/images/temporary-banner-2023.jpg" /></div>
+<div id='logo-container'><img src="../assets/images/temporary-banner-2023.jpg" /></div>
 
 Director, Open Source Programs Office (OSPO)
 
