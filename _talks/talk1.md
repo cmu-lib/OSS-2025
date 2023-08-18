@@ -1,9 +1,9 @@
 ---
-name: Vim Impetus Placerat Cotidieque Ad
+name: Talk 1
 speakers:
   - Tolga Philip
 categories:
-  - Cat B
+  - New Models for Research
   - Talk
 ---
 
