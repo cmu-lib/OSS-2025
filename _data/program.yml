@@ -3,11 +3,11 @@ days:
   abbr: Mo
   date: 2020-01-31
   rooms:
-  - name: Room A
+  - name: All Sessions
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
+      - name: Talk 1
+        time_start: '9:10'
+        time_end: '10:25'
       - name: Condimentum Vitae Sapien Pellentesque
         time_start: '12:45'
         time_end: '13:30'
