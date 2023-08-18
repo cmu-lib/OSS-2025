@@ -1,5 +1,5 @@
 ---
-name: Talk 1
+name: Session 1
 speakers:
   - Tolga Philip
 categories:
