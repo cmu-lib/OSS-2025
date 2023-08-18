@@ -64,8 +64,8 @@ conference:
       # img: 'cmu-logo-stacked-r.png'
       url: 'https://www.cmu.edu/'
     links:
-      #- name: Program
-      #  relative_url: /program/
+      - name: Program
+        relative_url: /program/
       #- name: Talks
       #  relative_url: /talks/
       - name: Speakers
