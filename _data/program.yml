@@ -11,8 +11,8 @@ days:
         time_start: '10:45'
         time_end: '12:00'
       - name: Session 3
-        time_start: '1:00'
-        time_end: '2:15'
+        time_start: '13:00'
+        time_end: '14:15'
       - name: Session 4
-        time_start: '2:30'
-        time_end: '3:45'
+        time_start: '14:30'
+        time_end: '15:45'
