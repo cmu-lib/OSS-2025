@@ -1,9 +1,9 @@
 ---
-name: Eu Nisl Nunc Mi Ipsum Faucibus
+name: Session 4
 speakers:
   - The Anonymous
 categories:
-  - Cat B
+  - Publishing
   - Talk
 ---
 
