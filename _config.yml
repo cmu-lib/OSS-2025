@@ -61,7 +61,7 @@ conference:
   navigation:
     logo:
       name: Carnegie Mellon University
-      # img: 'cmu-logo-stacked-r.png'
+      img: 'cmu-logo-stacked-r.png'
       url: 'https://www.cmu.edu/'
     links:
       #- name: Program
