@@ -107,10 +107,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to the Open Science Symposium 2023 site! Registration is [now open](https://www.eventbrite.com/e/open-science-symposium-2023-tickets-675423599167?aff=oddtdtcreator)!
+    - title: Welcome to the Open Science Symposium 2023 site! 
       color: success
       main_only: true
-      # text:
+      text: |
+      **Registration is [now open](https://www.eventbrite.com/e/open-science-symposium-2023-tickets-675423599167?aff=oddtdtcreator)!**
 
   # Live indications
   live:
