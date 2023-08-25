@@ -27,7 +27,7 @@ panels from researchers and thought leaders in academia, industry, and publishin
 The conference will explore how open science is transforming the ways in which 
 we do research and share it in a variety of science and non-science disciplines.
 Topics will include tenure and promotion policies, rethinking peer review,
-lessons from industry, and more!
+lessons from industry, automated science, and more!
 
 We will also have the following satellite events this fall:
 
