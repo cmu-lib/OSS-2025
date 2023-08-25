@@ -108,14 +108,10 @@ conference:
   # Information boxes
   info_bars:
     - title: Welcome to the Open Science Symposium 2023 site!
-      color: primary
+      color: success
       main_only: true
       text: |
-        This website is currently under construction. Please come back for more information later this summer!
-
-        ---
-
-        In the meantime, check out our last [Open Science Symposium](https://events.library.cmu.edu/oss2020/) and how CMU Libraries is supporting open science at our [Open Science & Data Collaborations website](https://www.library.cmu.edu/services/open-science#).
+        Registration is now open! Register [here](https://www.eventbrite.com/e/open-science-symposium-2023-tickets-675423599167?aff=oddtdtcreator).
 
   # Live indications
   live:
