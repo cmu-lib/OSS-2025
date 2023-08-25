@@ -111,7 +111,7 @@ conference:
       color: success
       main_only: true
       text: |
-      **Registration is [now open](https://www.eventbrite.com/e/open-science-symposium-2023-tickets-675423599167?aff=oddtdtcreator)!**
+      Registration is [now open](https://www.eventbrite.com/e/open-science-symposium-2023-tickets-675423599167?aff=oddtdtcreator)!
 
   # Live indications
   live:
