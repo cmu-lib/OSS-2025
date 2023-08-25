@@ -31,5 +31,5 @@ lessons from industry, and more!
 
 We will also have the following satellite events this fall:
 
-- *In Conversation with Life Science Researchers: The Evolving Landscape of Data Sharing*, a virtual roundtable, will be held on September 14, 2023.
-- *Morning Brew: Exploring Open Science at CMU Libraries*, an informal mixer event, will be held in person on November 8, 2023.
+- *In Conversation with Life Science Researchers: The Evolving Landscape of Data Sharing*, a virtual roundtable, will be held on September 14, 2023. Register [here](https://www.eventbrite.com/e/in-conversation-the-evolving-landscape-of-data-sharing-tickets-675447330147?aff=oddtdtcreator).
+- *Morning Brew: Exploring Open Science at CMU Libraries*, an informal mixer event, will be held in person on November 8, 2023. Register [here](https://cmu.libcal.com/event/11171642).
