@@ -78,8 +78,8 @@ conference:
         menu:
           - name: 2020
             absolute_url: 'https://events.library.cmu.edu/oss2020/'
-          #- name: 2019
-          #  relative_url: /2019/
+          - name: 2019
+            absolute_url: 'https://events.library.cmu.edu/oss2019/'
           #- name: 2018
           #  relative_url: /2018/
 
