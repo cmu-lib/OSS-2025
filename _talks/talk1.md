@@ -1,7 +1,9 @@
 ---
 name: New Models for Research
 speakers:
-  - Tolga Philip
+  - Subha Das
+  - Sayeed Choudhury
+  - Michael Blackhurst
 categories:
   - New Models for Research
   - Talk
