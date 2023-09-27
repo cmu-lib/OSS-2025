@@ -1,7 +1,9 @@
 ---
 name: Roles of Institutions and Government
 speakers:
-  - Alex Rosales
+  - LaKeisha Harris
+  - Michael Dougherty
+  - Jamaica Jones
 categories:
   - Roles of Institutions and Government
   - Talk
