@@ -1,8 +1,9 @@
 ---
 name: Open Resources for Communities
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - Monica Granados
+  - Janelle Knox-Harris
+  - Malvika Sharan
 categories:
   - Open Resources for Communities
   - Talk
