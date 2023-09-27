@@ -1,7 +1,9 @@
 ---
 name: Publishing
 speakers:
-  - The Anonymous
+  - Sanjiv Singh
+  - Stuart King
+  - Jason Portenoy
 categories:
   - Publishing
   - Talk
