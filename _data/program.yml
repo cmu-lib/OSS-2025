@@ -4,7 +4,7 @@ days:
   rooms:
   - name: Room A
     talks:
-      - name: New Models for Research
+      - name: New Directions for Research
         time_start: '9:10'
         time_end: '10:25'
       - name: Open Resources for Communities

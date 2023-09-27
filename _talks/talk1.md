@@ -1,5 +1,5 @@
 ---
-name: New Models for Research
+name: New Directions for Research
 speakers:
   - Subha Das
   - Sayeed Choudhury
