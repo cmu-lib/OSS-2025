@@ -2,7 +2,7 @@
 name: Open Resources for Communities
 speakers:
   - Monica Granados
-  - Janelle Knox-Harris
+  - Janelle Knox-Hayes
   - Malvika Sharan
 categories:
   - Open Resources for Communities
