@@ -2,6 +2,7 @@
 name: Keith Webster
 first_name: Keith
 last_name: Webster
+image_url: assets/images/keith_webster.png
 links:
   - name: Profile
     absolute_url: https://www.library.cmu.edu/about/people/keith-webster
