@@ -12,7 +12,9 @@
   </h1>
 
   {% if speaker.image_url %}
-    <img src="{{ site.baseurl }}/{{ speaker.image_url }}" alt="{{ speaker.first_name }} {{ speaker.last_name }}">
+      <div class="image-container">
+        <img src="{{ site.baseurl }}/{{ speaker.image_url }}" alt="{{ speaker.first_name }} {{ speaker.last_name }}" style="max-width: 30%; height: auto;">
+      </div>
   {% endif %}
 
   {{ content }}
