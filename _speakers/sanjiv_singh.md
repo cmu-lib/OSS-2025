@@ -2,6 +2,7 @@
 name: Sanjiv Singh
 first_name: Sanjiv
 last_name: Singh
+image_url: assets/images/sanjiv_singh.png
 links:
   - name: Profile
     absolute_url: https://frc.ri.cmu.edu/~ssingh/Sanjiv_Singh/home.html
