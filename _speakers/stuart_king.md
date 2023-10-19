@@ -2,6 +2,7 @@
 name: Stuart King
 first_name: Stuart
 last_name: King
+image_url: assets/images/stuart_king.jpg
 links:
   - name: Profile
     absolute_url: https://elifesciences.org/about/people/staff
