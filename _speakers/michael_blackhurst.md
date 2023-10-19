@@ -2,6 +2,7 @@
 name: Michael Blackhurst
 first_name: Michael
 last_name: Blackhurst
+image_url: assets/images/michael_blackhurst.jpg
 links:
   - name: Profile
     absolute_url: https://engineering.cmu.edu/directory/bios/blackhurst-michael.html
