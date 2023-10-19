@@ -2,6 +2,7 @@
 name: LaKeisha Harris
 first_name: LaKeisha
 last_name: Harris
+image_url: assets/images/lakeisha_harris.jpg
 links:
   - name: Profile
     absolute_url: https://www.umes.edu/Physical-Therapy/Pages/The-Department/LaKeisha-Harris,-Ph-D-,-C-R-C-/
