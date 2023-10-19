@@ -2,6 +2,7 @@
 name: Michael Dougherty
 first_name: Michael
 last_name: Dougherty
+image_url: assets/images/michael_dougherty.jpg
 links:
   - name: Profile
     absolute_url: https://psyc.umd.edu/facultyprofile/dougherty/michael
