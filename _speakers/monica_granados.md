@@ -2,6 +2,7 @@
 name: Monica Granados
 first_name: Monica
 last_name: Granados
+image_url: assets/images/monica_granados.png
 links:
   - name: Profile
     absolute_url: https://www.monicagranados.com/
