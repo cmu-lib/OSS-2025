@@ -2,6 +2,7 @@
 name: Subha Das
 first_name: Subha
 last_name: Das
+image_url: assets/images/subha_das.jpg
 links:
   - name: Profile
     absolute_url: https://www.cmu.edu/chemistry/people/faculty/das.html
