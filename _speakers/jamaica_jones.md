@@ -2,6 +2,7 @@
 name: Jamaica Jones
 first_name: Jamaica
 last_name: Jones
+image_url: assets/images/jamaica_jones.jpeg
 links:
 #  - name: Profile
 #    absolute_url:
