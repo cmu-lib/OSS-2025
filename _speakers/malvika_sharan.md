@@ -2,6 +2,7 @@
 name: Malvika Sharan
 first_name: Malvika
 last_name: Sharan
+image_url: assets/images/malvika_sharan.jpg
 links:
   - name: Profile
     absolute_url: https://www.turing.ac.uk/people/researchers/malvika-sharan
