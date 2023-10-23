@@ -8,10 +8,8 @@ links:
     absolute_url: https://frc.ri.cmu.edu/~ssingh/Sanjiv_Singh/home.html
 ---
 
-Editor-in-Chief, Field Robotics
-
-Professor, Robotics Institute
-
+Editor-in-Chief, Field Robotics   
+Professor, Robotics Institute   
 Carnegie Mellon University
 
 ### Bio
