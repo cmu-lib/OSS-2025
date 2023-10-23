@@ -142,15 +142,13 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: New Models for Research
-        color: primary
       - name: Open Science in Research & Teaching
         color: primary
-      - name: Open Resources for Communities
+      - name: Open Science and Communities
         color: secondary
-      - name: Roles of Institutions and Government
+      - name: Impact of Policies
         color: info
-      - name: Publishing
+      - name: Open Access Publishing
         color: success
 
     # Hide icons on talk overview page
