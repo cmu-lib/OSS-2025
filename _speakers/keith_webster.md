@@ -8,8 +8,7 @@ links:
     absolute_url: https://www.library.cmu.edu/about/people/keith-webster
 ---
 
-Helen and Henry Posner, Jr. Dean of the University Libraries
-
+Helen and Henry Posner, Jr. Dean of the University Libraries   
 Carnegie Mellon University
 
 ### Bio
