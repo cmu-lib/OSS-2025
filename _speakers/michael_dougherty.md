@@ -8,8 +8,7 @@ links:
     absolute_url: https://psyc.umd.edu/facultyprofile/dougherty/michael
 ---
 
-Department Chair, Psychology
-
+Department Chair, Psychology   
 University of Maryland
 
 ### Bio
