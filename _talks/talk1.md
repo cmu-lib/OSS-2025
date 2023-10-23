@@ -1,11 +1,9 @@
 ---
-name: New Directions for Research
+name: Remote Control Science in the Cloud Lab
 speakers:
   - Subha Das
-  - Sayeed Choudhury
-  - Michael Blackhurst
 categories:
-  - New Models for Research
+  - Open Science in Research & Teaching
   - Talk
 ---
 
