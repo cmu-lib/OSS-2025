@@ -8,8 +8,7 @@ links:
     absolute_url: https://elifesciences.org/about/people/staff
 ---
 
-Research Culture Manager
-
+Research Culture Manager   
 eLife
 
 ### Bio
