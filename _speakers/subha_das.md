@@ -8,8 +8,7 @@ links:
     absolute_url: https://www.cmu.edu/chemistry/people/faculty/das.html
 ---
 
-Associate Professor, Chemistry
-
+Associate Professor, Chemistry   
 Carnegie Mellon University
 
 ### Bio
