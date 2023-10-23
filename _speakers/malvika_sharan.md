@@ -8,10 +8,8 @@ links:
     absolute_url: https://www.turing.ac.uk/people/researchers/malvika-sharan
 ---
 
-Senior Researcher – Open Research
-
-Co-Lead,  The Turing Way Project
-
+Senior Researcher – Open Research   
+Co-Lead,  The Turing Way Project   
 The Alan Turing Institute
 
 ### Bio
