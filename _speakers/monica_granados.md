@@ -8,8 +8,7 @@ links:
     absolute_url: https://www.monicagranados.com/
 ---
 
-Assistant Director, Open Climate
-
+Assistant Director, Open Climate   
 Creative Commons
 
 ### Bio
