@@ -7,6 +7,9 @@ days:
       - name: New Directions for Research
         time_start: '9:10'
         time_end: '10:25'
+      - name: Remote Control Science in the Cloud Lab
+        time_start: '9:10'
+        time_end: '9:25'
       - name: Open Resources for Communities
         time_start: '10:45'
         time_end: '12:00'
