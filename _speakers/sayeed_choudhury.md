@@ -8,12 +8,9 @@ links:
     absolute_url: https://www.library.cmu.edu/about/people/sayeed-choudhury
 ---
 
-Director, Open Source Programs Office (OSPO)
-
-Associate Dean for Digital Infrastructure
-
-University Libraries
-
+Director, Open Source Programs Office (OSPO)   
+Associate Dean for Digital Infrastructure   
+University Libraries   
 Carnegie Mellon University
 
 ### Bio
