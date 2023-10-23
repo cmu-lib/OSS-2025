@@ -1,11 +1,9 @@
 ---
-name: Open Resources for Communities
+name: A Rolling Wall of Openness
 speakers:
-  - Monica Granados
-  - Janelle Knox-Hayes
-  - Malvika Sharan
+  - Sayeed Choudhury
 categories:
-  - Open Resources for Communities
+  - Open Science in Research & Teaching
   - Talk
 ---
 
