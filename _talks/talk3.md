@@ -1,11 +1,9 @@
 ---
-name: Roles of Institutions and Government
+name: An Introduction to the Open Energy Outlook Initiative
 speakers:
-  - LaKeisha Harris
-  - Michael Dougherty
-  - Jamaica Jones
+  - Michael Blackhurst
 categories:
-  - Roles of Institutions and Government
+  - Open Science in Research & Teaching
   - Talk
 ---
 
