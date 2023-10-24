@@ -16,9 +16,9 @@ days:
       - name: Panelist Q&A
         time_start: '9:55'
         time_end: '10:15'
-      - name: Open Resources for Communities
+      - name: What pieces do we need in open policy to enable us to solve the world’s greatest challenges
         time_start: '10:45'
-        time_end: '12:00'
+        time_end: '11:00'
       - name: Roles of Institutions and Government
         time_start: '13:00'
         time_end: '14:15'
