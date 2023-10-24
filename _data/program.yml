@@ -10,6 +10,9 @@ days:
       - name: A Rolling Wall of Openness
         time_start: '9:25'
         time_end: '9:40'
+      - name: An Introduction to the Open Energy Outlook Initiative
+        time_start: '9:40'
+        time_end: '9:55'
       - name: Open Resources for Communities
         time_start: '10:45'
         time_end: '12:00'
