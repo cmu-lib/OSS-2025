@@ -1,11 +1,11 @@
 ---
-name: Publishing
+name: Panelist Q&A
 speakers:
-  - Sanjiv Singh
-  - Stuart King
-  - Jason Portenoy
+  - Subha Das
+  - Sayeed Choudhury
+  - Michael Blackhurst
 categories:
-  - Publishing
+  - Open Science in Research & Teaching
   - Talk
 ---
 
