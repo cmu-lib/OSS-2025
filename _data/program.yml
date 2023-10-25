@@ -25,6 +25,9 @@ days:
       - name: Open Science for Enabling Reproducible, Ethical and Collaborative Research – Insights from The Turing Way Community
         time_start: '11:15'
         time_end: '11:30'
+      - name: Panelist Q&A
+        time_start: '11:30'
+        time_end: '11:50'
       - name: Roles of Institutions and Government
         time_start: '13:00'
         time_end: '14:15'
