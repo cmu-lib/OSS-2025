@@ -16,13 +16,13 @@ days:
       - name: Panelist Q&A
         time_start: '9:55'
         time_end: '10:15'
-      - name: What pieces do we need in open policy to enable us to solve the world’s greatest challenges
+      - name: What Pieces Do We Need in Open Policy to Enable Us to Solve the World’s Greatest Challenges
         time_start: '10:45'
         time_end: '11:00'
       - name: Creating Community Data with Community Access for Community Needs
         time_start: '11:00'
         time_end: '11:15'
-      - name: Open science for enabling reproducible, ethical and collaborative research – insights from The Turing Way community
+      - name: Open Science for Enabling Reproducible, Ethical and Collaborative Research – Insights from The Turing Way Community
         time_start: '11:15'
         time_end: '11:30'
       - name: Roles of Institutions and Government

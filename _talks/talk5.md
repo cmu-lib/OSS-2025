@@ -1,5 +1,5 @@
 ---
-name: What pieces do we need in open policy to enable us to solve the world’s greatest challenges
+name: What Pieces Do We Need in Open Policy to Enable Us to Solve the World’s Greatest Challenges
 speakers:
   - Monica Granados
 categories:
