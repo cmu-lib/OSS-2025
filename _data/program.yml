@@ -37,6 +37,6 @@ days:
       - name: Panelist Q&A 3
         time_start: '14:00'
         time_end: '14:20'
-      - name: Publishing
+      - name: What’s Wrong with Open Access as a Model?
         time_start: '14:30'
-        time_end: '15:45'
+        time_end: '14:45'
