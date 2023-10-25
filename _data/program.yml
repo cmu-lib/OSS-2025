@@ -43,3 +43,6 @@ days:
       - name: Preprints Mean Peer Review can be Reimagined as it Should Always Have Been
         time_start: '14:45'
         time_end: '15:00'
+      - name: Introducing OpenAlex, an Open and Comprehensive Catalog of the World's Scholarly Research System
+        time_start: '15:00'
+        time_end: '15:15'
