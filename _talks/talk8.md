@@ -1,5 +1,5 @@
 ---
-name: Panelist Q&A
+name: Panelist Q&A 2
 speakers:
   - Monica Granados
   - Taiwo Lasisi
