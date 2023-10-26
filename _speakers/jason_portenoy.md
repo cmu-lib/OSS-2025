@@ -8,8 +8,8 @@ links:
     absolute_url: https://www.jasport.org/
 ---
 
-Senior Data Engineer
-OpenAlex
+Senior Data Engineer  
+OpenAlex  
 
 ### Bio
 
