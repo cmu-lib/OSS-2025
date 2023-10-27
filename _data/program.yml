@@ -64,3 +64,6 @@ days:
       - name: Panelist Q&A 4
         time_start: '15:15'
         time_end: '15:35'
+      - name: Closing Remarks
+        time_start: '15:45'
+        time_end: '16:00'
