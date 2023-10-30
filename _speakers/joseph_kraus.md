@@ -8,8 +8,8 @@ links:
     absolute_url: https://library.mines.edu/project/kraus-joseph/
 ---
 
-Reference & Digital Repository Librarian
-Arthur Lakes Library, Colorado School of Mines
+Reference & Digital Repository Librarian  
+Arthur Lakes Library, Colorado School of Mines  
 
 ### Bio
 
