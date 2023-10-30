@@ -8,5 +8,3 @@ categories:
   - Open Access Publishing
   - Talk
 ---
-
-To Be Announced

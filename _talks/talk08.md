@@ -8,5 +8,3 @@ categories:
   - Open Science and Communities
   - Talk
 ---
-
-To Be Announced

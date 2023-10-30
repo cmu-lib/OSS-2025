@@ -8,5 +8,3 @@ categories:
   - Open Science in Research & Teaching
   - Talk
 ---
-
-To Be Announced
