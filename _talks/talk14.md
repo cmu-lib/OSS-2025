@@ -1,10 +1,8 @@
 ---
-name: Preprints Mean Peer Review can be Reimagined as it Should Always Have Been
+name: Supporting Open Science on a Small Budget - The Role of the Mines Repository
 speakers:
-  - Stuart King
+  - Joseph Kraus
 categories:
   - Open Access Publishing
   - Talk
 ---
-
-To Be Announced
