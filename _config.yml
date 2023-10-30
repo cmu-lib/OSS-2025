@@ -64,10 +64,10 @@ conference:
       img: 'cmu-logo-stacked-r.png'
       url: 'https://www.cmu.edu/'
     links:
-      #- name: Program
-      #  relative_url: /program/
-      #- name: Talks
-      #  relative_url: /talks/
+      - name: Talks
+        relative_url: /talks/
+      - name: Program
+        relative_url: /program/
       - name: Speakers
         relative_url: /speakers/
       - name: Location
@@ -96,6 +96,10 @@ conference:
     # logo:
     #   img: ''
     links:
+      - name: Talks
+        relative_url: /talks/
+      - name: Program
+        relative_url: /program/
       - name: Speakers
         relative_url: /speakers/
       - name: Virtual event information
@@ -112,6 +116,7 @@ conference:
       main_only: true
       text: |
         #### Registration is [now open](https://www.eventbrite.com/e/open-science-symposium-2023-tickets-675423599167?aff=oddtdtcreator)!
+        #### View the list of [talks](/talks/) and the [program schedule](/program/)
 
   # Live indications
   live:
