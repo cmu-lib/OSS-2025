@@ -119,11 +119,11 @@ conference:
 
   # Live indications
   live:
-    date: 01.01.2020
-    timezone: GMT+1
-    stop:       240  # in minutes
+    date: 11.03.2023
+    timezone: GMT-4
+    stop:       1  # in minutes
     streaming:
-      enable: true
+      enable: false
       pause:     60  # in minutes
       prepend:    5  # in minutes
       extend:     5  # in minutes
