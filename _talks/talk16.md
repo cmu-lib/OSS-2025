@@ -2,7 +2,7 @@
 name: Panelist Q&A 4
 speakers:
   - Sanjiv Singh
-  - Stuart King
+  - Joseph Kraus
   - Jason Portenoy
 categories:
   - Open Access Publishing
