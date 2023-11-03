@@ -124,7 +124,7 @@ conference:
 
   # Live indications
   live:
-    date: 11.03.2023
+    date: 12.01.2020
     timezone: GMT-5
     stop:       1  # in minutes
     streaming:
