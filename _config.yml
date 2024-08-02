@@ -115,12 +115,12 @@ conference:
       color: success
       main_only: true
       text: |
-        #### Registration is [open](https://www.eventbrite.com/e/open-science-symposium-2023-tickets-675423599167?aff=oddtdtcreator)! 
-    - title: Start time - 0900 AM EST (GMT-4)
-      color: info
-      main_only: true
-      text: |
-        #### View the list of [talks](talks/index) and the [program schedule](program/index)  
+        #### This event has passed
+   # - title: Start time - 0900 AM EST (GMT-4)
+   #   color: info
+   #   main_only: true
+   #   text: |
+   #     #### View the list of [talks](talks/index) and the [program schedule](program/index)  
 
   # Live indications
   live:
