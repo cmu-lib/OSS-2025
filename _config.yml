@@ -104,8 +104,8 @@ conference:
         relative_url: /speakers/
       - name: Virtual event information
         relative_url: /location/
-      - name: Registration
-        absolute_url: 'https://www.eventbrite.com/e/open-science-symposium-2023-tickets-675423599167?aff=oddtdtcreator'
+      # - name: Registration
+      #  absolute_url: 'https://www.eventbrite.com/e/open-science-symposium-2023-tickets-675423599167?aff=oddtdtcreator'
       - name: Code of Conduct
         relative_url: /code_of_conduct/
 
