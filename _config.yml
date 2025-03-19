@@ -1,8 +1,8 @@
-title: Open Science Symposium 2023
+title: Open Science Symposium 2025
 preposition: ''
 description: >-
-  The Fourth Carnegie Mellon University Open Science Symposium
-baseurl: "/OSS" # the subpath of your site, e.g. /blog
+  The Fifth Carnegie Mellon University Open Science Symposium
+baseurl: "/OSS-2025" # the subpath of your site, e.g. /blog
 url: "cmu-lib.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
