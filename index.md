@@ -17,12 +17,11 @@ layout: home
 
 <div id='logo-container'><img src="assets/images/temporary-banner-2023.jpg" /></div>
 
-## Open Science Symposium 2023
+## Open Science Symposium 2025
 
-### November 3, 2023
+### November 13, 2023
 
-Join us for our signature open science event, a full day of virtual talks and
-panels from researchers and thought leaders in academia, industry, and publishing.
+Join us for our signature open science event, a full day of virtual talks and panels from researchers and thought leaders in academia, industry, and publishing. The conference will explore how open science is transforming the ways in which we do research and share it in a variety of science and non-science disciplines
 
 The conference will explore how open science is transforming the ways in which 
 we do research and share it in a variety of science and non-science disciplines.
@@ -31,5 +30,5 @@ lessons from industry, automated science, and more!
 
 We will also have the following satellite events this fall:
 
-- *In Conversation with Life Science Researchers: The Evolving Landscape of Data Sharing*, a virtual roundtable, will be held on September 14, 2023. Register [here](https://www.eventbrite.com/e/in-conversation-the-evolving-landscape-of-data-sharing-tickets-675447330147?aff=oddtdtcreator).
-- *Morning Brew: Exploring Open Science at CMU Libraries*, an informal mixer event, will be held in person on November 8, 2023. Register [here](https://cmu.libcal.com/event/11171642).
+- *The Open Science Primer, a train-the-trainer style program for academic library professionals, will be held at Carnegie Mellon University on October 14-15, 2025. Other training locations and online training are also available. Register here [here](https://guides.library.cmu.edu/openscienceprimer/register).
+- *The Open Unconference, a full day of participant-driven discussions about all things open for academic library professionals, will be held at Carnegie Mellon University on October 16, 2025.
