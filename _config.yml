@@ -96,12 +96,12 @@ conference:
     # logo:
     #   img: ''
     links:
-      - name: Talks
-        relative_url: /talks/
-      - name: Program
-        relative_url: /program/
-      - name: Speakers
-        relative_url: /speakers/
+     # - name: Talks
+     #   relative_url: /talks/
+     # - name: Program
+     #   relative_url: /program/
+     # - name: Speakers
+     #   relative_url: /speakers/
       - name: Virtual event information
         relative_url: /location/
       # - name: Registration
