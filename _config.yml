@@ -76,6 +76,8 @@ conference:
         relative_url: /code_of_conduct/
       - name: Previous Editions
         menu:
+          - name: 2023
+            absolute_url: 'https://cmu-lib.github.io/OSS/'
           - name: 2020
             absolute_url: 'https://events.library.cmu.edu/oss2020/'
           - name: 2019
