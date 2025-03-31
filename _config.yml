@@ -110,11 +110,11 @@ conference:
         relative_url: /code_of_conduct/
 
   # Information boxes
-  info_bars:
-    - title: Welcome to the Open Science Symposium 2023 site! 
-      color: success
-      main_only: true
-      text: |
+  # info_bars:
+  #  - title: Welcome to the Open Science Symposium 2023 site! 
+  #    color: success
+  #    main_only: true
+  #    text: |
         #### This event has passed
    # - title: Start time - 0900 AM EST (GMT-4)
    #   color: info
