@@ -30,5 +30,5 @@ lessons from industry, automated science, and more!
 
 We will also have the following satellite events this fall:
 
-- *The Open Science Primer, a train-the-trainer style program for academic library professionals, will be held at Carnegie Mellon University on October 14-15, 2025. Other training locations and online training are also available. Register here [here](https://guides.library.cmu.edu/openscienceprimer/register).
+- *The Open Science Primer, a train-the-trainer style program for academic library professionals, will be held at Carnegie Mellon University on October 14-15, 2025. Other training locations and online training are also available. Register here [here](https://guides.library.cmu.edu/openscienceprimer/register){:target="_blank"}.*
 - *The Open Unconference, a full day of participant-driven discussions about all things open for academic library professionals, will be held at Carnegie Mellon University on October 16, 2025.
