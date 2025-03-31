@@ -25,13 +25,13 @@ exclude:
 # Collections and their defaults
 collections:
   talks:
-    output: false
+    output: true
     permalink: /:collection/:title/
   speakers:
-    output: false
+    output: true
     permalink: /:collection/:title/
   rooms:
-    output: false
+    output: true
     permalink: /:collection/:title/
 
 defaults:
@@ -64,12 +64,12 @@ conference:
       img: 'cmu-logo-stacked-r.png'
       url: 'https://www.cmu.edu/'
     links:
-      - name: Talks
-        relative_url: /talks/
-      - name: Program
-        relative_url: /program/
-      - name: Speakers
-        relative_url: /speakers/
+     # - name: Talks
+     #   relative_url: /talks/
+     # - name: Program
+     #   relative_url: /program/
+     # - name: Speakers
+     #   relative_url: /speakers/
       - name: Location
         relative_url: /location/
       - name: Code of Conduct
