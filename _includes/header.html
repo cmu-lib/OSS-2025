@@ -1,0 +1,39 @@
+{% if site.home %}
+{% assign return = site.home | relative_url %}
+{% else %}
+{% assign return = '/' | relative_url %}
+{% endif %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<header class="bg-{{ site.data.skin.header.bg | default: 'gray-4' }}">
+    <div class="container">
+        <div class="navbar navbar-expand-sm">
+            <a class="navbar-brand" href="{{ return }}">{{ site.title }}</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navigation">
+                <div class="navbar-nav me-auto">
+                    {% assign links = site.pages | sort: 'navorder' %}
+                    {% for link in links %}
+                    {% if link.navorder %}
+                    {% assign current = link.name | split: '.' | first %}
+                    {% assign href = link.url | relative_url %}                   
+                    <a class="nav-link" href="{{ href }}">{{ link.title }}</a>  
+                    {% endif %}
+                    {% endfor %}
+                    <div class="dropdown-nav">
+                        <button class="dropbtn">Previous Years 
+                         <i class="fa fa-caret-down" aria-hidden="true"></i>
+                        </button>
+                        <div class="dropdown-nav-content">
+                            {% for item in site.data.previous_years.editions %} 
+                                <a href="{{ item.url }}">{{ item.year }}</a>
+                            {% endfor %}
+                        </div>  
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>

@@ -1,194 +1,25 @@
 title: Open Science Symposium 2025
-preposition: ''
-description: >-
-  The Fifth Carnegie Mellon University Open Science Symposium
-baseurl: "/OSS-2025" # the subpath of your site, e.g. /blog
-url: "cmu-lib.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+description: The Fifth Carnegie Mellon University Open Science Symposium
+baseurl: "/OSS-2025" 
+url: "cmu-lib.github.io" 
 
-# Build settings
-markdown: kramdown
-sass:
-  style: compressed
+permalink: pretty
+theme: jekyll-nagymaros
 
-# Exclude from processing
+home: /
+copyright: CC by 4.0 
+indexing: true
+
 exclude:
-  - .github/
-  - venv/
+  - LICENSE
   - README.md
-  - LICENSE.md
-  - REDISTRIBUTED.md
-  - screenshot.png
-  - jekyll-theme-conference.gemspec
-  - purgecss.config.js
-  - _config.example.yml
+  - Gemfile
+  - vendor/
 
-# Collections and their defaults
-collections:
-  talks:
-    output: true
-    permalink: /:collection/:title/
-  speakers:
-    output: true
-    permalink: /:collection/:title/
-  rooms:
-    output: true
-    permalink: /:collection/:title/
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-target-blank
 
-defaults:
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-  - scope:
-      path: ""
-      type: speakers
-    values:
-      layout: speaker
-  - scope:
-      path: ""
-      type: rooms
-    values:
-      layout: room
-
-# Theme default values
-conference:
-
-  # Language
-  lang: en
-
-  # Navigation bar
-  navigation:
-    logo:
-      name: Carnegie Mellon University
-      img: 'cmu-logo-stacked-r.png'
-      url: 'https://www.cmu.edu/'
-    links:
-     # - name: Talks
-     #   relative_url: /talks/
-     # - name: Program
-     #   relative_url: /program/
-     # - name: Speakers
-     #   relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
-      - name: Code of Conduct
-        relative_url: /code_of_conduct/
-      - name: Previous Editions
-        menu:
-          - name: 2023
-            absolute_url: 'https://cmu-lib.github.io/OSS/'
-          - name: 2020
-            absolute_url: 'https://events.library.cmu.edu/oss2020/'
-          - name: 2019
-            absolute_url: 'https://events.library.cmu.edu/oss2019/'
-          - name: 2018
-            absolute_url: 'https://osf.io/54gue/'
-
-  # Link Preview for Sharing
-  link_preview:
-    # also adapt "preposition" property at top for more meaningful descriptions
-    disable: false
-    img:
-      twitter: 'twitter_preview.png'      # inside /assets/images/
-      open_graph: 'facebook_preview.png'  # inside /assets/images/
-
-  # Main landing page
-  main:
-    # logo:
-    #   img: ''
-    links:
-     # - name: Talks
-     #   relative_url: /talks/
-     # - name: Program
-     #   relative_url: /program/
-     # - name: Speakers
-     #   relative_url: /speakers/
-      - name: Virtual event information
-        relative_url: /location/
-      # - name: Registration
-      #  absolute_url: 'https://www.eventbrite.com/e/open-science-symposium-2023-tickets-675423599167?aff=oddtdtcreator'
-      - name: Code of Conduct
-        relative_url: /code_of_conduct/
-
-  # Information boxes
-  # info_bars:
-  #  - title: Welcome to the Open Science Symposium 2023 site! 
-  #    color: success
-  #    main_only: true
-  #    text: |
-        #### This event has passed
-   # - title: Start time - 0900 AM EST (GMT-4)
-   #   color: info
-   #   main_only: true
-   #   text: |
-   #     #### View the list of [talks](talks/index) and the [program schedule](program/index)  
-
-  # Live indications
-  live:
-    date: 12.01.2020
-    timezone: GMT-5
-    stop:       1  # in minutes
-    streaming:
-      enable: false
-      pause:     60  # in minutes
-      prepend:    5  # in minutes
-      extend:     5  # in minutes
-    demo:
-      enable: false
-      duration: 300  # in seconds
-      pause:     10  # in seconds
-
-  map:
-    # Initial map center point
-    home_coord: 47.37808, 8.53935
-    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
-    # The following do match the Bootstrap design not too badly:
-    #   - Hydda.Full
-    #   - Thunderforest.Neighbourhood
-    #   - Esri.WorldTopoMap
-    map_provider: "OpenStreetMap.Mapnik"
-    default_zoom: 17
-
-  talks:
-    # Talk categories
-    main_categories:
-      - name: Open Science in Research & Teaching
-        color: primary
-      - name: Open Science and Communities
-        color: secondary
-      - name: Impact of Policies
-        color: info
-      - name: Open Access Publishing
-        color: success
-
-    # Hide icons on talk overview page
-    hide_icons: false
-
-  speakers:
-    # Show first and last name
-    show_firstname: true
-
-  location:
-    # Disable links to locations
-    hide: true
-    # URL of location / room overview page
-    url: '/location'
-    # Main page title shown on location/room navigation bar
-    navbar_title: 'Location'
-    # Show map on location main page
-    map: false
-
-  program:
-    # URL of program page
-    url: '/program'
-
-    # Time steps in program table
-    time_steps: 5 # in minutes
-
-    # Show intermediary time steps (next to full hours)
-    show_alltimes: true
-
-plugins_dir: jekyll-include-cache
-
-remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
+sass:
+  sourcemap: never

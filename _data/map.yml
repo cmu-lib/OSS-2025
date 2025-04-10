@@ -1,0 +1,9 @@
+center: 40.4425, -79.9447
+zoom: 13
+markers:
+  - title: Hunt Library
+    text: Organizers of OSS 
+    latlng: 40.44108, -79.94374
+  - title: Sorrells Library
+    text: Organizers of OSS
+    latlng: 40.442578, -79.94581

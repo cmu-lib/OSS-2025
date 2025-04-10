@@ -8,9 +8,14 @@ layout: default
 <main class="my-4">
     <div class="container">
         <h1 class="display-5">{{ title }}</h1>
-        <hr class="my-4">
         {{ content }}
-        <br>
+        <ul>
+            {% for item in site.data.previous_years.editions %} 
+            <li>
+                <a href="{{ item.url }}" target="_blank">{{ item.year }}</a>
+            </li>
+            {% endfor %}
+        </ul>
     </div>
 </main>
 

@@ -1,0 +1,17 @@
+alerts:
+  - text: Sign up here to receive email updates about the Open Science Symposium 2025
+    color: green-1
+    url: https://docs.google.com/forms/d/e/1FAIpQLSeVqCryuoqKBoOj7SydpAyaT45OyLZsVLdewB9Pn7Dtng_i3Q/viewform?usp=dialog
+buttons:
+  - text: "Sign up for updates"
+    url: https://docs.google.com/forms/d/e/1FAIpQLSeVqCryuoqKBoOj7SydpAyaT45OyLZsVLdewB9Pn7Dtng_i3Q/viewform?usp=dialog
+    disabled: false
+  - text: Register (coming soon)
+    url: /OSS-2025/registration
+    disabled: true 
+  - text: Program (coming soon)
+    url: /OSS-2025/program
+    disabled: true
+  - text: Code of Conduct
+    url: /OSS-2025/code_of_conduct
+    disabled: false 

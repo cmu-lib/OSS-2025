@@ -1,69 +1,96 @@
+legend:
+  title: Categories
+  categories:
+    - name: Open Science in Research and Teaching
+      color: red-6
+    - name: Open Science and Communities
+      color: yellow-6
+    - name: Impact of Policies
+      color: lime-6
+    - name: Open Access Publishing
+      color: cyan-6
 days:
-- name: Friday
-  date: 2023-11-03
-  rooms:
-  - name: Virtual Room
-    talks:
-      - name: Opening and Housekeeping
-        time_start: '9:00'
-        time_end: '9:10'
-      - name: Remote Control Science in the Cloud Lab
-        time_start: '9:10'
-        time_end: '9:25'
-      - name: A Rolling Wall of Openness
-        time_start: '9:25'
-        time_end: '9:40'
-      - name: An Introduction to the Open Energy Outlook Initiative
-        time_start: '9:40'
-        time_end: '9:55'
-      - name: Panelist Q&A 1
-        time_start: '9:55'
-        time_end: '10:25'
-      - name: Morning Break
-        time_start: '10:25'
-        time_end: '10:45'
-      - name: What Pieces Do We Need in Open Policy to Enable Us to Solve the World’s Greatest Challenges
-        time_start: '10:45'
-        time_end: '11:00'
-      - name: Creating Community Data with Community Access for Community Needs
-        time_start: '11:00'
-        time_end: '11:15'
-      - name: Open Science for Enabling Reproducible, Ethical and Collaborative Research – Insights from The Turing Way Community
-        time_start: '11:15'
-        time_end: '11:30'
-      - name: Panelist Q&A 2
-        time_start: '11:30'
-        time_end: '12:00'
-      - name: Lunch Break
-        time_start: '12:00'
-        time_end: '13:00'
-      - name: Higher Education Leadership Initiative for Open Scholarship (HELIOS)
-        time_start: '13:00'
-        time_end: '13:15'
-      - name: Aligning Incentives with Institutional Values
-        time_start: '13:15'
-        time_end: '13:30'
-      - name: Transforming to Open Science at NASA and Beyond - A Year of Open Science
-        time_start: '13:30'
-        time_end: '13:45'
-      - name: Panelist Q&A 3
-        time_start: '13:45'
-        time_end: '14:15'
-      - name: Afternoon Break
-        time_start: '14:15'
-        time_end: '14:30'
-      - name: What’s Wrong with Open Access as a Model?
-        time_start: '14:30'
-        time_end: '14:45'
-      - name: Supporting Open Science on a Small Budget - The Role of the Mines Repository
-        time_start: '14:45'
-        time_end: '15:00'
-      - name: Introducing OpenAlex, an Open and Comprehensive Catalog of the World's Scholarly Research System
-        time_start: '15:00'
-        time_end: '15:15'
-      - name: Panelist Q&A 4
-        time_start: '15:15'
-        time_end: '15:45'
-      - name: Closing Remarks
-        time_start: '15:45'
-        time_end: '16:00'
+  - name: Morning Session (9am to 12pm)
+    events:
+      - time: 9:00 to 9:10
+        title: Opening and Housekeeping
+      - time: 9:10 to 9:25
+        title: Remote Control Science in the Cloud Lab
+        speaker: Subha Das
+        category: Open Science in Research and Teaching
+      - time: 9:25 to 9:40
+        title: A Rolling Wall of Openness
+        speaker: Sayeed Choudhury
+        category: Open Science in Research and Teaching
+      - time: 9:40 to 9:55
+        title: An Introduction to the Open Energy Outlook Initiative
+        speaker: Michael Blackhurst
+        category: Open Science in Research and Teaching
+      - time: 9:55 to 10:25
+        title: Panelist Q&A I
+        category: Open Science in Research and Teaching
+      - time: 10:25 to 10:45
+        title: Coffee Break
+      - time: 10:45 to 11:00
+        title: What Pieces Do We Need in Open Policy to Enable Us to Solve the World’s Greatest Challenges
+        speaker: Monica Granados
+        category: Open Science and Communities
+      - time: 11:00 to 11:15
+        title:  Creating Community Data with Community Access for Community Needs
+        speaker: Taiwo Lasisi
+        category: Open Science and Communities
+      - time: 11:15 to 11:30
+        title: Open Science for Enabling Reproducible, Ethical and Collaborative Research – Insights from The Turing Way Community
+        speaker: Malvika Sharan
+        category: Open Science and Communities
+      - time: 11:30 to 12:00
+        title: Panelist Q&A II
+        category: Open Science and Communities
+  - name: Afternoon Session (1pm to 4pm)
+    events:
+      - time: 13:00 to 13:15
+        title: Higher Education Leadership Initiative for Open Scholarship (HELIOS)
+        speaker: LaKeisha Harris
+        category: Impact of Policies
+      - time: 13:15 to 13:30
+        title: Aligning Incentives with Institutional Values
+        speaker: Michael Dougherty
+        category: Impact of Policies
+      - time: 13:30 to 13:45
+        title: Transforming to Open Science at NASA and Beyond - A Year of Open Science
+        speaker: Jamaica Jones
+        category: Impact of Policies
+      - time: 13:45 to 14:15
+        title: Panelist Q&A III
+        category: Impact of Policies
+      - time: 14:15 to 14:30
+        title: Coffee Break
+      - time: 14:30 to 14:45
+        title: What’s Wrong with Open Access as a Model?
+        speaker: Sanjiv Singh
+        category: Open Access Publishing
+      - time: 14:45 to 15:00
+        title: Supporting Open Science on a Small Budget - The Role of the Mines Repository
+        speaker: Joseph Kraus
+        category: Open Access Publishing
+      - time: 15:00 to 15:15
+        title:  Introducing OpenAlex, an Open and Comprehensive Catalog of the World's Scholarly Research System
+        speaker: Jason Portenoy
+        category: Open Access Publishing
+      - time: 15:15 to 15:45
+        title: Panelist Q&A IIII
+        category: Open Access Publishing
+      - time: 15:45 to 16:00
+        title: Closing Remarks
+        speaker: Keith Webster
+        category: A category
+        #paper: /assets/files/paper-2.pdf
+        #slides: /assets/files/slides.pdf
+      #- time: 16:00 to 18:00
+        #title: Poster presentations
+        #speaker: 
+        #category: A category
+        #poster:
+        # - /assets/files/poster-a.pdf
+        #  - /assets/files/poster-b.pdf
+        #  - /assets/files/poster-c.pdf

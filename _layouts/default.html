@@ -1,5 +1,14 @@
-{% include partials/header.html %}
+<!DOCTYPE html>
+<html>
 
-{{ content }}
+{% include head.html %}
 
-{% include partials/footer.html %}
+<body>
+    {{ content }}
+    <script src="{{ 'assets/js/bootstrap.bundle.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/leaflet.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/leaflet-data.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
+</body>
+
+</html>

@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% include header.html %}
+
+<main class="my-4">
+    <div class="container">
+        <h1 class="display-5">{{ title }}</h1>
+        {{ content }}
+        {% if site.data.people %}
+        <hr class="my-4">
+        {% assign groups = site.data.people.groups %}
+        {% for group in groups %}
+        {% if group.title %}
+        <h3 class="fw-normal-group">{{ group.title }}</h3>
+        {% endif %}
+        <div {{ div }}>
+            {% if group.title == "Speakers (2023)" %}
+            <div class="media-speaker">
+                {% if group.sort %}
+                {% assign members = group.members | sort_natural: 'name' %}
+                {% else %}
+                {% assign members = group.members %}
+                {% endif %}
+                {% for member in members %}
+                {% assign full = member.name | append: ' ' | append: member.last %}
+                {% assign affil = member.affil %}
+                {% assign position = member.position %}
+                {% if member.image %}
+                {% assign image_prefix = member.image | slice: 0, 4 %}
+                    {% if image_prefix == "http" %}
+                    {% assign image_url = member.image %}
+                    {% else %}
+                    {% assign image_url = member.image | prepend: site.baseurl %}
+                    {% endif %}
+                <img class="media-people-img" loading="lazy" src="{{ image_url }}" alt="Image of {{ people.full }}" width="150">
+                {% endif %}
+                <div class ="media-people-text">
+                    <ul class="list-unstyled">
+                    {% if member.website %}
+                  <li><h4 class="bio-name"><a href="{{ member.website }}" target="_blank">{{ full }}</a></h4></li>
+                   <li><small class="text-muted">{{ position }} | {{ affil }}</small></li>
+                    {% else %}
+                   <li><h4 class="bio-name">{{ full }} </h4></li>
+                    <li><small class="text-muted">{{ position }} | {{ affil }}</small></li>
+                    {% endif %}
+                    <li><p id="bio-text">{{member.bio}}</p></li>
+                    </ul>
+                </div>
+                {% endfor %}
+                <br>
+            </div>
+            {% else %}              
+            {% if group.columns %}  
+            <div class ="media-org-text">
+                <ul class="list-unstyled">
+                {% if group.sort %}
+                {% assign members = group.members | sort_natural: 'name' %}
+                {% else %}
+                {% assign members = group.members %}
+                {% endif %}
+                {% for member in members %}
+                {% assign full = member.name | append: ' ' | append: member.last %}
+                {% assign affil = member.affil %}
+                {% assign position = member.position %}
+                {% if member.website %}
+                <li><h4 class="bio-name"><a href="{{ member.website }}" target="_blank">{{ full }}</a></h4></li>
+                {% else %}
+                <li><h4 class="bio-name">{{ full }} </h4></li>
+                {% endif %}
+                {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+            {% endif %}
+        </div>
+        {% endfor %}
+        <br>
+        {% endif %}
+    </div>
+</main>
+
+{% include footer.html %}
