@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-
+{%- comment -%}
 {% include metadata.liquid %}
+{%- endcomment -%}
+
 {% assign digit_bg = site.data.skin.digit.bg | default: 'gray-3' %}
 {% if site.home %}
 {% assign return = site.home | relative_url %}
