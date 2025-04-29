@@ -28,7 +28,7 @@ we do research and share it in a variety of science and non-science disciplines.
 
 Open to students, researchers, library, industry, and government professionals, and open science advocates everywhere!
 
-We will also have the following satellite events this fall:
+We will also have the following satellite events this fall: 
 
 - *The Open Science Primer, a train-the-trainer style program for academic library professionals, will be held at Carnegie Mellon University on October 14-15, 2025. Online training will also be available. Register <a href="https://guides.library.cmu.edu/openscienceprimer/register" target="_blank">here</a>*
 - The Cracking Open Unconference, a full day of participant-driven discussions about all things open for academic library professionals, will be held at Carnegie Mellon University on October 16, 2025.
