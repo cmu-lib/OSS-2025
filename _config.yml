@@ -4,7 +4,8 @@ baseurl: "/OSS-2025"
 url: "cmu-lib.github.io" 
 
 permalink: pretty
-theme: jekyll-nagymaros
+# theme: jekyll-nagymaros
+theme: minima
 
 home: /
 copyright: CC by 4.0 
