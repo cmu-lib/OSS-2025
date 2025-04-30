@@ -19,7 +19,7 @@ layout: home
 
 ## Open Science Symposium 2025
 
-### November 13, 2025
+### November 13, 2025 
 
 Join us for our signature open science event, a full day of virtual talks and panels from researchers and thought leaders in academia, industry, and publishing. 
 
