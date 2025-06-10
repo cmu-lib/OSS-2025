@@ -1,0 +1,299 @@
+.text-primary {
+    color: #C41230;
+}
+
+a {
+    color: #C41230;
+}
+
+a:hover,
+a:focus,
+a:active,
+a.active {
+    color: #C41230;
+    text-decoration: none;
+}
+
+.btn-primary {
+    border-color: #C41230;
+    background-color: #C41230;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    border-color: #C41230;
+}
+
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+    border-color: #C41230;
+    background-color: #C41230;
+}
+
+.btn-primary .badge {
+    color: #C41230;
+}
+
+.btn-xl {
+    border-color: #C41230;
+    background-color: #C41230;
+}
+
+.btn-xl:hover,
+.btn-xl:focus,
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+    border-color: #E0E0E0;
+    background-color: #E0E0E0;
+}
+
+.btn-xl.disabled,
+.btn-xl[disabled],
+fieldset[disabled] .btn-xl,
+.btn-xl.disabled:hover,
+.btn-xl[disabled]:hover,
+fieldset[disabled] .btn-xl:hover,
+.btn-xl.disabled:focus,
+.btn-xl[disabled]:focus,
+fieldset[disabled] .btn-xl:focus,
+.btn-xl.disabled:active,
+.btn-xl[disabled]:active,
+fieldset[disabled] .btn-xl:active,
+.btn-xl.disabled.active,
+.btn-xl[disabled].active,
+fieldset[disabled] .btn-xl.active {
+    border-color: #C41230;
+    background-color: #C41230;
+}
+
+.btn-xl .badge {
+    color: #C41230;
+    background-color: #fff;
+}
+
+
+.navbar-default .navbar-brand {
+    color: #C41230;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand.active {
+    color: #C41230;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #C41230;
+    background-color: #C41230;
+}
+
+.navbar-default .nav li a:hover,
+.navbar-default .nav li a:focus {
+    outline: 0;
+    color: #C41230;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #C41230;
+}
+
+.navbar-default .navbar-nav>.active>a {
+    background-color: #C41230;
+}
+
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    background-color: #C41230;
+}
+
+.menu-wrap a:hover,
+.menu-wrap a:focus {
+	color: #C41230;
+}
+
+.menu-wrap .logo {
+    color: #C41230;
+}
+
+.menu-button {
+    background: #C41230;
+}
+
+.header .intro-text h1 span {
+    color: #C41230;
+}
+
+.main-title strong {
+    color: #C41230;
+}
+
+.feature i {
+    background: #C41230;
+}
+
+.no-touch .feature:hover i,
+	.no-touch .feature:active i,
+	.no-touch .feature:focus i {
+        
+        box-shadow: 0 0 0 0 #C41230;
+}
+
+.feature-2 i {
+    background: #C41230;
+    border: 1px solid #C41230;
+}
+
+.feature-2:hover i {
+    background: transparent;
+    color: #C41230;
+}
+.feature-2:hover .border {
+    border-color: #C41230;
+}
+
+.feature-3 i {
+    color: #C41230;
+    border: 1px solid #C41230;
+}
+
+.feature-3:hover i {
+    background: #C41230;
+    color: #fff;
+}
+
+.feature-3:hover .border {
+    border-color: #C41230;
+}
+
+.portfolio-caption a i {
+    color: #C41230;
+}
+.portfolio-item:hover .portfolio-caption {
+    background-color: #C41230;
+}
+
+.welcome-section:hover .border {
+    border-color: #C41230;
+}
+
+.welcome-section:hover h4 {
+    color: #C41230;
+}
+
+.about-text li i {
+    color: #C41230;
+}
+
+.about-us-section-2 .carousel-indicators li,
+.project-image .carousel-indicators li {
+	border: 2px solid #C41230 !important;
+}
+
+.about-us-section-2 .carousel-indicators .active,
+.project-image .carousel-indicators .active {
+	background-color: #C41230;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+	background: #C41230;
+}
+
+#team-section .nav-tabs.nav-justified {
+    background: #C41230;
+}
+
+.counter-item i {
+    color: #C41230;
+}
+.timer {
+    color: #C41230;
+}
+.latest-post h4 {
+    color: #C41230;
+}
+.latest-post .post-details li i {
+    color: #C41230;
+}
+
+.testimonials .testimonial-content img {
+    border: 3px solid #C41230;
+}
+.testimonials .testimonial-author .author {
+    color: #C41230;
+}
+.testimonials-carousel .owl-controls.clickable .owl-buttons div{
+	color: #C41230;
+}
+.owl-theme .owl-controls .owl-page.active{
+    background-color: #C41230;
+}
+
+.contact .form-control:focus {
+    border-color: #C41230;
+    box-shadow: none;
+}
+
+.call-to-action h1 strong {
+    color: #C41230;   
+}
+
+.progress-bar {
+    background: #C41230;
+}
+
+
+.pricing-tables .pricing-table.highlight-plan .plan-name {
+    background: #C41230;
+}
+
+.pricing-tables .pricing-table.highlight-plan .plan-signup {
+    background: #C41230;
+}
+
+
+footer.style-1 {
+    border-top: 2px solid #C41230;
+}
+
+#main-slide .slider-content h1 strong {
+    color: #C41230;
+}
+
+.latest-post .post-details .date {
+    background: rgba(91, 177, 47, 0.8);
+}
+
+.custom-tab .nav-tabs.nav-justified {
+    background: #C41230;
+}
+
+.plan-name {
+    background: #C41230;
+}
+
+.plan-signup {
+    background: #C41230;
+}
+
+.dot1, .dot2 {
+    background-color: #C41230;
+}
