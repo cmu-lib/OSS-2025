@@ -1,1 +1,0 @@
-The Open Science Symposium 2025 @ CMU site is built with the [jekyll-nagymaros](https://github.com/piazzai/jekyll-nagymaros) theme with further customization on the people's bio page. 
